@@ -15,7 +15,6 @@ Vocab size of all metric-types | 807 | 175 | 185
 Vocab size of unique metric-types | 90 | 22 | 28
 
 <br />
-<br />
 <b>Table Data (json)</b>
 
 
