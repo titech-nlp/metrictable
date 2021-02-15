@@ -2,7 +2,6 @@ Data used in [Metric-Type Identification for Multi-Level Header Numerical Tables
 <br />
 <br />
 <b>Dataset Statistics</b>
-<br />
 
 &nbsp;| Train | Val | Test
 --- | --- | --- | ---
@@ -16,7 +15,7 @@ Vocab size of unique metric-types | 90 | 22 | 28
 
 <br />
 <b>Table Data (json)</b>
-
+<br />
 
 ```
 [
