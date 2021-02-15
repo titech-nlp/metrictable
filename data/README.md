@@ -1,4 +1,5 @@
-## Metric-Type Identification for Multi-Level Header Numerical Tables in Scientific Papers ##
+Data used in [Metric-Type Identification for Multi-Level Header Numerical Tables in Scientific Papers](https://arxiv.org/abs/2102.00819 "Metric-Type Identification for Multi-Level Header Numerical Tables in Scientific Papers")  (Suadaa et al; EACL 2021). If you use this data, please cite the above paper.
+<br />
 <br />
 <b>Dataset Statistics</b>
 <br />
