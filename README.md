@@ -138,3 +138,8 @@ Vocab size of unique metric-types | 90 | 22 | 28
     ...
 ]
 ```
+<br />
+<br />
+<b>License</b>
+<br />
+Distributed under the [Creative Commons 4.0 Attribution-ShareAlike license (CC4.0-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/)
