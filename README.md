@@ -3,7 +3,7 @@ Data used in [Metric-Type Identification for Multi-Level Header Numerical Tables
 <br />
 <b>License</b>
 <br />
-Distributed under the [Creative Commons 4.0 Attribution-ShareAlike (CC4.0-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/) license.
+Distributed under the [Creative Commons 4.0 Attribution-ShareAlike (CC4.0-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/).
 <br />
 <br />
 <b>Dataset Statistics</b>
