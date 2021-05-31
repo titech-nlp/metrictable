@@ -1,6 +1,11 @@
 Data used in [Metric-Type Identification for Multi-Level Header Numerical Tables in Scientific Papers](https://arxiv.org/abs/2102.00819 "Metric-Type Identification for Multi-Level Header Numerical Tables in Scientific Papers")  (Suadaa et al; EACL 2021). If you use this data, please cite the above paper.
 <br />
 <br />
+<b>License</b>
+<br />
+Distributed under the [Creative Commons 4.0 Attribution-ShareAlike (CC4.0-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/) license.
+<br />
+<br />
 <b>Dataset Statistics</b>
 
 &nbsp;| Train | Val | Test
@@ -139,7 +144,4 @@ Vocab size of unique metric-types | 90 | 22 | 28
 ]
 ```
 <br />
-<br />
-<b>License</b>
-<br />
-Distributed under the [Creative Commons 4.0 Attribution-ShareAlike license (CC4.0-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/)
+
